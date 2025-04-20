@@ -1,0 +1,6 @@
+flow_matching>=0.10
+diffusers>=0.31.0
+scipy>=1.4.0
+numpy>=1.26.4
+tqdm>=4.42.1
+torch>=2.5.0
